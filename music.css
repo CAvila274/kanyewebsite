@@ -1,0 +1,37 @@
+.music-title{
+  background-color:blue;
+  color:white;
+  padding-bottom:20px;
+  padding-top:20px;
+}
+
+.music-importance{
+  color:white;
+}
+
+body{
+  background-color:black;
+}
+
+.kanye-music{
+  width:650px;
+  border:none;
+  border-radius:15px;
+}
+
+.music-description{
+  color:white;
+  width:400px;
+}
+
+.discography-title{
+  color:white;
+}
+
+.discography{
+  color:white;
+}
+
+.albums{
+  color:white;
+}
