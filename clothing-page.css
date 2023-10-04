@@ -1,0 +1,37 @@
+.fashion-heading{
+  color:white;
+  background-color:blue;
+  padding-bottom:20px;
+  padding-top:20px;
+}
+
+.fashion-title{
+  color:white;
+}
+
+body{
+  background-color:black;
+}
+
+.kanye-yeezy{
+  height:300px;
+  border:none;
+  border-radius:15px;
+}
+
+.fashion-explanation{
+  width:360px;
+  color:white;
+}
+
+.clothing-title{
+  color:white;
+}
+
+.clothing-list{
+  color:white;
+}
+
+.yeezy-website{
+  color:white;
+}
